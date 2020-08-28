@@ -12,9 +12,9 @@ var katzDeliLine = ["Ada", ]
 // >>>>>>> 451328479a775e03a5ad3b41d5c69fec652b8641
 //   return `Welcome, ${currentName}. You are number ${katzDeliLine.length} in line.`
 // }
+const currentNumber = 0
 function takeANumber(katzDeliLine) {
-  const currentNumber = 0
-  
+
   return katzDeliLine.push(currentNumber + 1)
 }
 
