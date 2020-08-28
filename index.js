@@ -8,10 +8,10 @@ function takeANumber (katzDeliLine, currentName) {
 var katzDeliLine = ["Ada", ]
 
 
-function takeANumber (katzDeliLine, currentName) {
->>>>>>> 451328479a775e03a5ad3b41d5c69fec652b8641
-  return `Welcome, ${currentName}. You are number ${katzDeliLine.length} in line.`
-}
+// function takeANumber (katzDeliLine, currentName) {
+// >>>>>>> 451328479a775e03a5ad3b41d5c69fec652b8641
+//   return `Welcome, ${currentName}. You are number ${katzDeliLine.length} in line.`
+// }
 
 function nowServing(katzDeliLine) {
   if (katzDeliLine.length > 0) {
