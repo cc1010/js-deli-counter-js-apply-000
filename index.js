@@ -13,8 +13,8 @@ var katzDeliLine = ["Ada", ]
 //   return `Welcome, ${currentName}. You are number ${katzDeliLine.length} in line.`
 // }
 function takeANumber(katzDeliLine) {
-  if (k)
-  const currentNumber = katzDeliLine.length
+  const currentNumber = 0
+  
   return katzDeliLine.push(currentNumber + 1)
 }
 
